@@ -1,6 +1,7 @@
-##Nauka Gita
+## nauka Gita
 
-###Drugie starcie
+### rugie starcie
 
-...
+```
 www
+```
